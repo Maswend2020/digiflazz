@@ -1,6 +1,6 @@
 <?php
 
-namespace Gonon\Digiflazz\Exceptions;
+namespace Mdigi\Exceptions;
 
 /**
  * Class ApiException

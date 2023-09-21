@@ -1,9 +1,9 @@
 <?php
 
-namespace Gonon\Digiflazz\Request;
+namespace Mdigi\Request;
 
-use Gonon\Digiflazz\Exceptions\InvalidArgumentException;
-use Gonon\Digiflazz\Exceptions\ApiException;
+use Mdigi\Exceptions\InvalidArgumentException;
+use Mdigi\Exceptions\ApiException;
 
 /**
  * Trait Helper

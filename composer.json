@@ -1,6 +1,6 @@
 {
-    "name": "maswend2020/digiflazz",
-    "description": "Unofficial PHP Library Digiflazz",
+    "name": "mdigi",
+    "description": "Library Digiflazz",
     "type": "library",
     "require": {
         "guzzlehttp/guzzle": "^7.8.0",
@@ -9,7 +9,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Gonon\\Digiflazz\\": "src/"
+            "Mdigi\\": "src/"
         }
     },
     "authors": [
